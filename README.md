@@ -2,4 +2,4 @@
 
 Simple readme file
 
-A little update, on a branch
+This will cause conflict
